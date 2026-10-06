@@ -18,8 +18,8 @@
 
 ## 👋 Über mich
 
-- 🏗️ Infrastrukturadministrator bei der **IHK GfI** in Dortmund — Systemmonitoring, Rechenzentrumsinfrastruktur, Technologie-Integration
-- 🎓 Ausbildung zum **Fachinformatiker für Systemintegration** bei der dogado GmbH abgeschlossen
+- 🏗️ Infrastrukturadministrator — Systemmonitoring, Rechenzentrumsinfrastruktur, Technologie-Integration
+- 🎓 Ausbildung zum **Fachinformatiker für Systemintegration**
 - 💜 Nebenbei selbstständig als **Withake IT** — Webseiten & IT-Dienstleistungen für kleine Unternehmen
 - 🔭 Baue aktuell eine eigene **Rechnungssoftware** und betreue mehrere Kundenprojekte (Astro, PHP, Plesk-Hosting)
 - 🧪 Homelab-Enthusiast: Proxmox, Checkmk, Jellyfin & Raspberry-Pi-Automatisierungen
